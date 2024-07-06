@@ -3,7 +3,7 @@ Collecting information on re-designing the Digital VLSI Design course for ECE UG
 
 # Resources
 
-- [2022 Curricullum](file:///C:/Users/srout/Dropbox/educational/Silicon/academics/2022-1028-Curricullum-Digital-VLSI-Design.pdf)
+- 2022 Curricullum: Silicon/academics/2022-1028-Curricullum-Digital-VLSI-Design.pdf
 - [Boris Murmann's course at U. of Hawaii](https://github.com/bmurmann/EE628)
 - Jurkans, et.al., _Low-Cost Open Source ASIC Design and Fabrication: Creating your own chips with open source software and multiproject wafers_, SSC Mag, June 2024. ([IEEE Xplore Link](https://ieeexplore.ieee.org/document/10584391))
   - Good reference on designing a course around a simple processor and tapeout with TinyTapeout.
